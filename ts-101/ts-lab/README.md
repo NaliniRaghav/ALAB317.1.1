@@ -1,0 +1,3 @@
+Resources This lab uses CodeSandbox. Creating an Account. Making a Sandbox. Navigating a Sandbox. Submitting a Sandbox link to Canvas. Submission Submit your completed lab using the Start Assignment button on the assignment page in Canvas. Instructions A pre-configured CodeSandbox that contains a single JavaScript file: index.js. https://codesandbox.io/p/sandbox/alab-working-with-typescript-ycqngy?file=%2Fpackage.json
+
+git rm -r --cached
